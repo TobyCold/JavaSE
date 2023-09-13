@@ -49,9 +49,7 @@ class Main{
    - 多用在测试类和工具类中
    - Javabean类中很少会用
 
-
-
-![image-20221030190410971](Java面向对象img\image-20221030190410971.png)
+![image-20221030190410971](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221030190410971.png)
 
 ### 工具类
 
@@ -184,7 +182,7 @@ public class Test {
 -  this: 理解为一个变量，表示当前方法调用者的地址值
 - super:代表父类存储空间
 
-![image-20221103224252655](Java面向对象img\image-20221103224252655.png)
+![image-20221103224252655](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221103224252655.png)
 
 ```java
 public class Student {
@@ -284,11 +282,11 @@ class Cat extends Animal{
 
 ```
 
-![image-20221105152316554](\Java面向对象img\image-20221105152316554.png)
+![image-20221105152316554](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221105152316554.png)
 
 ### 包
 
-![image-20221105153853408](\Java面向对象img\image-20221105153627178.png)
+![image-20221105153853408](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221105153627178.png)
 
 # final
 
@@ -317,7 +315,7 @@ class Cat extends Animal{
 
 private < 缺省/默认 < protected < public 
 
-![image-20221105155849364](\Java面向对象img\image-20221105155849364.png)
+![image-20221105155849364](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221105155849364.png)
 
 ### 代码块
 
@@ -481,7 +479,7 @@ public class Teat{
 
 ### 总结
 
-![image-20221109152427990](\Java面向对象img\image-20221109152427990.png)
+![image-20221109152427990](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221109152427990.png)
 
 ### 接口与类之间的关系
 
@@ -505,7 +503,7 @@ public class Teat{
 - jdk8的新特性：接口中可以定义有方法体的方法。（默认、静态）
 - jdk9的新特性：接口中可以定义私有方法
 
-![image-20221109173621217](Java面向对象img\image-20221109173621217.png)
+![image-20221109173621217](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221109173621217.png)
 
 # 内部类
 
@@ -516,20 +514,20 @@ public class Teat{
 - ​	内部类可以直接访问外部类的成员，包括私有
 - ​	外部类要访问内部类的成员，必须创建对象
 
-![image-20221110204523744](C:\Users\Cold\AppData\Roaming\Typora\typora-user-images\image-20221110204523744.png)
+![image-20221110205256081](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221110205256081.png)
 
-![image-20221110205256081](Java面向对象img\image-20221110205256081.png)
+### 成员内部类行为方法重名分析
 
-### 成员内部类行为方法重名分析![image-20221110215701353](\Java面向对象img\image-20221110215701353.png)
+![image-20221110215701353](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221110215701353.png)
 
-![image-20221110215746829](\Java面向对象img\image-20221110215746829.png)
+![image-20221110215746829](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221110215746829.png)
 
 ### 静态内部类
 
-![image-20221110220529321](\Java面向对象img\image-20221110220529321.png)
+![image-20221110220529321](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221110220529321.png)
 
 ### 局部内部类
 
-![image-20221110221042787](Java面向对象img\image-20221110221042787.png)
+![image-20221110221042787](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221110221042787.png)
 
-![image-20221110223151515](Java进阶篇img\image-20221110223151515.png)
+![image-20221110223151515](https://raw.githubusercontent.com/TobyCold/JavaSE/master/Java面向对象img/image-20221110223151515.png)
